@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A further account of East-New-Jarsey by a letter write [sic] to one of the proprietors thereof, by a countrey-man, who has a great plantation there Together with the discription of the said province, as it is in Ogilbies atlas, printed in the year, 1671.</title>
+            <author>Lockhart, George, fl. 1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88410</idno>
+            <idno type="STC">Wing L2777A</idno>
+            <idno type="STC">ESTC R231909</idno>
+            <idno type="EEBO-CITATION">99897508</idno>
+            <idno type="PROQUEST">99897508</idno>
+            <idno type="VID">170880</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170880)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2502:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A further account of East-New-Jarsey by a letter write [sic] to one of the proprietors thereof, by a countrey-man, who has a great plantation there Together with the discription of the said province, as it is in Ogilbies atlas, printed in the year, 1671.</title>
+                  <author>Lockhart, George, fl. 1683.</author>
+                  <author>Ogilby, John, 1600-1676.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Reid,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter signed at end: Geo: Lockhart.</note>
+                  <note>"The description of America, by John Ogilbie, printed in the year 1671." begins on page 5.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>New Jersey --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+               <term>America --  Description and travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170880:1"/>
+            <!-- PDF PAGE 65 -->
+            <pb facs="tcp:170880:2"/>
+            <!-- PDF PAGE 66 -->
+            <p>A Further Account of EAST-NEW-JARSEY By a LETTER Write to One of the PROPRIETORS Thereof, by a <hi>Countrey-man,</hi> who has a great <hi>Plantation</hi> there.</p>
+            <p>TOGETHER With the Diſcription of the ſaid <hi>Province,</hi> as it is in <hi>OGILBIES Atlas,</hi> Printed in the year, 1671.</p>
+            <p>EDINBURGH, Printed by <hi>John Reid,</hi> Anno DOM. 1683.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:170880:3"/>
+            <!-- PDF PAGE 67 -->
+            <pb facs="tcp:170880:3"/>
+            <!-- PDF PAGE 67 -->
+            <opener>
+               <dateline>
+                  <hi>LONDON,</hi> 
+                  <date>
+                     <hi>June the</hi> 2d. 1683.</date>
+               </dateline>
+               <salute>For <hi>ROBERT BARKLEY, &amp;c.</hi>
+               </salute>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Eing credibly informed, that your ſelf, with ſome other Gentlemen of <hi>Scotland,</hi> have purchaſed an Intereſt in <hi>Eaſt-New-Jerſey,</hi> (my being a <hi>Scots-man,</hi> and Well<g ref="char:EOLhyphen"/>wiſher to that Nation) puts me upon giving you this ſhort Narrative, or account of it in general, (having lived there many years, which gave me full knowledge and experience of the ſame) leſt you may be diſcouraged from the proſecution of your Intention of Settlement, as many others of your Countrey-men in like nature have been; (after a ſeeming Reſolution to effect their Deſignes) to our great diſhonour and detriment, and to enthraldom, and perpetual Slavery of ſome thouſands of our poor Labourers; who, if they could be made ſenſible of the difference between their preſent State or Condition, and the hight of good Living, which in a few years (by GODS Bleſſing and their own Induſtrie) they may accompliſh with half the Labour, many of them uſe in their own Country, (the Soil being ſo Rich and Fer<g ref="char:EOLhyphen"/>tile, and rendring Increaſe beyond Imagination, and ſurpaſſing ours) would uſe all means poſſible, for their ſpeedy Tranſportation thither.</p>
+            <p>
+               <hi>The Country is in general as followeth,</hi>
+            </p>
+            <p>
+               <hi>Impr.</hi> As to the Climate, it is Moderate and Healthy, having Win<g ref="char:EOLhyphen"/>ter and Summer as <hi>Britain,</hi> the Summers there being a little ſhorter, and in the Winters their dayes longer.</p>
+            <p>
+               <hi>Item.</hi> As to the Soyl, it is Rich and Fertile, endued with much good Timber, and great quantities of Freſh and Salt Meadows; as alſo, much Meadow-ground, which is Arrable, and ſo Rich and Deep of Black-mould, that it is never to be worn out; well accommodated with Salt and Freſh Rivers, good Fiſhing, great plenty of Deers, and wild Fowl; Produces all ſort of <hi>Engliſh-grain,</hi> with great Increaſs, beſides <hi>In<g ref="char:EOLhyphen"/>dian-corn,</hi> upon which is unexpreſſible Increaſe.</p>
+            <pb facs="tcp:170880:4"/>
+            <!-- PDF PAGE 68 -->
+            <p>
+               <hi>Item.</hi> There is great ſtocks of Cattle, Sheep, and Hogs, good Oxen, and plenty of Horſes, all ſort of Dunghil-fowl, and all to be purchaſed at very reaſonable rates.</p>
+            <p>
+               <hi>Item.</hi> There is ſettled upon the ſame very good Towns, and many out-Plantations, and good Buildings, good Orchards; and affords much Syder.</p>
+            <p>
+               <hi>Item.</hi> The Countrey is vaſt and large, and wanteth nothing, ſo much as People which would certainly be ſupplied in a little time were this Diſcrip<g ref="char:EOLhyphen"/>tion publiſhed, and the truth of it ſo well known to many, as to my ſelf, who am not capable at preſent (in reſpect of time, and this being only general) to deſcribe half of what may be for your and their encouragement. Onely this, that the difference is unſpeakable (as I appeal to every Mans reaſon) between ſettling a Countrey remote from your Plantations (where cannot be expected any ſpeedy Supplies of Proviſions, Milk, Cattle, and many other things; and that wherein is plenty of every thing already) I ſhall deſiſt from giv<g ref="char:EOLhyphen"/>ing you further trouble at preſent, and take leave to ſubſcribe,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>
+                  <hi>Your Friend and Servant,</hi> GEO: LOCKHART.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:170880:4"/>
+            <!-- PDF PAGE 68 -->
+            <head>The Diſcription of AMERICA, By JOHN OGILBIE, Printed in the Year 1671. In his Book, Fol. 168.181.182.</head>
+            <p>WEſtward of <hi>After-skull-River</hi> before mentioned, about 18. or 20. miles, runs in <hi>Rariton-River</hi> Northward, into the Countrey ſome ſcores of miles, both ſides of which River are adorned with ſpacious Meadows, enough to feed thouſands of Cattle. The Wood-land is very good for Corn, and ſtored with wild Beaſts, as Deer, Elks, and an innumerable multitude of Fowl, as in other parts of the Coun<g ref="char:EOLhyphen"/>trey. This River is thought very capable for the erecting of ſe<g ref="char:EOLhyphen"/>veral Towns, and Villages on each ſide of it; no place in the North of <hi>America</hi> having better convenience for the maintain<g ref="char:EOLhyphen"/>ing of all ſorts of Cattle for Winter and Summer food.</p>
+            <p>Upon this River is no Town ſettled, onely one at the mouth of it; but next to it, Weſtward, is a place called <hi>Hewaſons,</hi> where are 2. or 3. Towns and Villages ſettled upon the Sea-ſide, but none betwixt that and <hi>Delawar-Bay,</hi> which is about 60. miles, all which is a Rich Champain Countrey, free from Stones, and indifferent levell, having ſtore of excellent good Timber, and very well Watered, having Brooks, or Rivers, ordinarily, one or more in every miles travel. This Countrey is Peopled onely with wild Beaſts, as Deers, Elks, Bears, and other Creatures; ſo that in a whole dayes journey, you ſhall meet with no Inha<g ref="char:EOLhyphen"/>bitants, except a few <hi>Indians.</hi> It is alſo full of ſtately Oaks, whoſe broad-branch-tops ſerve for no other uſe, but to keep off the Suns heat from the wild Beaſts of the Wilderneſs, where is
+<pb facs="tcp:170880:5"/>
+               <!-- PDF PAGE 69 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:170880:5"/>
+               <!-- PDF PAGE 69 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:170880:6"/>
+               <!-- PDF PAGE 70 -->graſs as high as a Mans middle, which ſerves for no other end, except to maintain the Elks and Deers, who never devour a hundred part of it, than to be burnt every Spring to make way for new. How many poor People in the World would think themſelves happy, had they 1. Acre or 2. of Land? whilſt there is hundred, nay thouſands of Acres that would invite Inhabi<g ref="char:EOLhyphen"/>tants, <hi>&amp;c.</hi>
+            </p>
+            <p>We ſhall conclude our Diſcourſe of this Countrey, with a notable Character given hereof by a late Writer, as to the great <hi>Advantage of Happy living in all reſpects, for whoſoever ſhall be pleaſed to betake himſelf thither to live.</hi>
+            </p>
+            <p>
+               <q rend="margQuotes">If there be any Terreſtical Happineſs <hi>(ſaid he)</hi> to be had by any People, eſpecially of an inferiour Rank, it muſt certainly be here. Here any one may furniſh himſelf with Land, and live Rent-free; yea, with ſuch a quantity of land, that he may weary himſelf with walking over his Fields of Corn, and all ſorts of Grain; and let his ſtock a<g ref="char:EOLhyphen"/>mount to ſome hundreds, he needs not fear their want of Paſture in the Summer, and Fodder in the Winter; the Woods affording ſufficient Supply, where you have Graſs as high as a Mans Knees; nay, as high as his Weaſt, interlaced with Pea-vines, and other weeds, that Cattle much delight in, as much as a Man can paſs through. And theſe Woods alſo every mile, or half mile, are furniſhed with Freſh Ponds, Brooks, or Rivers, where all ſorts of Cattle, during the heat of the day, do quench their thirſt and cool themſelves. Theſe Brooks and Rivers being In<g ref="char:EOLhyphen"/>viron'd of each ſide with ſeveral ſorts of Trees, and Grape-Vines, Arbor-like interchanging places, and croſſing theſe Rivers, do ſhade, and ſhelter them from the ſcorching beams of the Sun. Such as by their utmoſt labours can ſcarcely get a living, may here procure Inheritances of Lands and Poſſeſſions, ſtock themſelves with all ſorts of Cattle, enjoy the benefit of them whilſt they live, and leave them their
+<pb n="7" facs="tcp:170880:6"/>
+                  <!-- PDF PAGE 70 -->Children, when they die. Here you need not trouble the Shambles for meat, nor Bakers, and Brewers for Bear and Bread, nor run to a Linnen-draper for a ſupply; every one making their own Linnen, and a great part of their Wol<g ref="char:EOLhyphen"/>len Cloath for their ordinarie wearing. And how prodigal (if I may ſo ſay) hath Nature been to furniſh this Countrey with all ſort of wild Beaſts and Foul, which every one hath an intereſt in; and may hunt at his pleaſure; where, beſides the pleaſure in hunting, he may furniſh his houſe, with ex<g ref="char:EOLhyphen"/>cellent fat Veniſon, Turkies, Geeſe, Heath-Hens, Crans, Swans, Dukes, Pigeons, and the like, and wearied with that, he may go a Fiſhing, where the Rivers are ſo furniſhed, that he may ſupply himſelf with Fiſh, before he can leave of the Recreation. Here one may travel by land upon the ſame continent hundreds of miles, and paſs through Towns, and Villages, and never hear the leaſt complaint for want, nor hear any ask him for a farthing. Here one may lodge in the Fields, and Woods, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>travel from one end of the countrey to another, with as much ſecurity as if he were lock'd within his own Chamber. And if one chance to meet with an <hi>Indian-town,</hi> they ſhall give him the beſt en<g ref="char:EOLhyphen"/>tertainment they have, and upon his deſire direct him on his way. But that which adds happinnſs to all the reſt, is the healthfulneſs of the place, where many people in twenty years time never knew what ſickneſs is, where they look upon it as a great mortality if two or threee die out of a Town in one years time. Beſides the ſweetneſs of the air, the coun<g ref="char:EOLhyphen"/>trey it ſelf ſends forth ſuch a fragrant ſmell, that it may be perceived at Sea, before they can make to land; no evil Fog or Vapour doth any ſonner appear, but a <hi>North-Weſt,</hi> or <hi>Weſterly</hi> wind immediately deſolve it away. Moreover, you ſhal ſcarce ſee a houſe, but the <hi>South-ſide</hi> is begirt with hyves of Bees, which increaſe after an incredible manner. So that, if there be any <hi>Terreſtical Canaan,</hi> it is ſurely here, where the land floweth with <hi>Milk</hi> and <hi>Hony.</hi>
+               </q>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170880:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 71 -->
+         </div>
+      </body>
+   </text>
+</TEI>
